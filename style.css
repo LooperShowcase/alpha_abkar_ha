@@ -1,0 +1,35 @@
+h1{
+  color:rebeccapurple;
+background-color: black;
+ }
+ h2 {color: gold;background-color: blue;}
+p
+{
+  color: rgb(2, 3, 3);background-color: lime;
+} 
+h1 {color: rgb(26, 73, 82);}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
